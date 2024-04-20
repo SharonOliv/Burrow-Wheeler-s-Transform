@@ -15,11 +15,11 @@ This repository also contains the doc file which demonstrates the time complexit
 Overall , It takes O(n*logn) time.
 
 # REAL-LIFE APPLICATIONS
-<h3>1.Data Compression:</h3><br>
+<h3>1.Data Compression:</h3>
 <&nbsp;> BWT is often used as a preprocessing step in data compression algorithms like the Burrows-Wheeler Compression (BWC) and the popular Bzip2. It rearranges the data in a way that makes it more amenable to compression, particularly for repetitive data.
 
-<b>2.Bioinformatics:</b><br> 
+<h3>2.Bioinformatics:</h3> 
     In genomics and bioinformatics, BWT is used in DNA sequence alignment algorithms such as Bowtie and BWA (Burrows-Wheeler Aligner). It efficiently aligns short DNA sequences to a reference genome, enabling tasks like DNA sequencing and analysis.
 
-<b>3.Data Encryption:</b><br> 
+<h3>3.Data Encryption:</h3> 
     BWT can be employed in cryptographic applications. While not a standalone encryption method, it can be part of a larger encryption scheme, adding an extra layer of randomness to the data.
