@@ -12,7 +12,7 @@ This algorithm is used many fields. It is primarily used in data compression and
 
 # Time complexity
 This repository also contains the doc file which demonstrates the time complexity of this algorithm.
-Overall , It takes O(n*logn) time.
+Overall ,It takes O(n*logn) time.
 
 # REAL-LIFE APPLICATIONS
 <h3>1.Data Compression:</h3>
@@ -23,3 +23,15 @@ BWT is often used as a preprocessing step in data compression algorithms like th
 
 <h3>3.Data Encryption:</h3> 
     BWT can be employed in cryptographic applications. While not a standalone encryption method, it can be part of a larger encryption scheme, adding an extra layer of randomness to the data.
+
+<h3>4.Data Search and Indexing:</h3>
+BWT can facilitate fast text searching and indexing. Techniques like FM-index (based on BWT) are utilized in search engines, bioinformatics databases, and data retrieval systems, allowing for rapid substring searches even in large datasets.
+
+<h3>5.Data Transmission:</h3>
+BWT can be used in data transmission and error correction mechanisms. By transforming the data into a more compressible form, it can reduce the amount of data that needs to be transmitted, thereby saving bandwidth and speeding up communication.
+
+<h3>6.Image and Signal Processing:</h3>
+BWT has applications in image and signal processing for tasks like image compression and watermarking. By exploiting redundancy in image or signal data, BWT can efficiently represent them in a more compact form.
+
+<h3>7.Blockchain and Cryptocurrencies:</h3>
+In blockchain technology, BWT can be utilized for various purposes such as compressing transaction data before adding it to blocks, improving storage efficiency, and optimizing block propagation across the network.
