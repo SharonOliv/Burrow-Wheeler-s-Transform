@@ -40,3 +40,6 @@ BWT has applications in image and signal processing for tasks like image compres
 
 <h3>7.Blockchain and Cryptocurrencies:</h3>
 In blockchain technology, BWT can be utilized for various purposes such as compressing transaction data before adding it to blocks, improving storage efficiency, and optimizing block propagation across the network.
+
+USE THE BELOW LINK TO READ BLOG ON THIS TOPIC.
+https://medium.com/@sharonolivia_chintala/burrows-wheeler-transformation-algorithm-a7b13d144f58
