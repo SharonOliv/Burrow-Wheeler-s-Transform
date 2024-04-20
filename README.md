@@ -12,10 +12,10 @@ The BWT algorithm is simple to understand.<br>
 <strong>INPUT:</strong> String<br>
 <strong>OUTPUT:</strong> String
 
-# What is the use of this algorithm
+# WHAT IS THE USE OF THIS ALGORITHM
 This algorithm is used many fields. It is primarily used in data compression and bioinformatics. For example, in data compression the transformed string obtained after using Burrows-wheeler transform is compressed efficiently using Huffman coding or RLE , thus by making the compression more amendable. 
 
-# Time complexity
+# TIME COMPLEXITY
 This repository also contains the doc file which demonstrates the time complexity of this algorithm.
 Overall ,It takes O(n*logn) time.
 
