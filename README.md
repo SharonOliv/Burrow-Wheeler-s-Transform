@@ -15,7 +15,7 @@ This repository also contains the doc file which demonstrates the time complexit
 Overall , It takes O(n*logn) time.
 
 # REAL-LIFE APPLICATIONS
-1.Data Compression: 
+1.Data Compression: <br>
     BWT is often used as a preprocessing step in data compression algorithms like the Burrows-Wheeler Compression (BWC) and the popular Bzip2. It rearranges the data in a way that makes it more amenable to compression, particularly for repetitive data.
 
 2.Bioinformatics: 
